@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # desafiopokeapi
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# desafiopokeApi
+>>>>>>> 3982bc8f3cd0ffb0c37c4b61cdc92330c3608969
